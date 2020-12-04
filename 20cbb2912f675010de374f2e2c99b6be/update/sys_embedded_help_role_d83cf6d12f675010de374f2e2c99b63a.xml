@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_531743_verizon_t.verizon_time_card_user" name="x_531743_verizon_t.verizon_time_card_user">d43cf6d12f675010de374f2e2c99b637</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 17:44:00</sys_created_on>
+        <sys_id>d83cf6d12f675010de374f2e2c99b63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d43cf6d12f675010de374f2e2c99b637</sys_name>
+        <sys_package display_value="Verizon Time Card" source="x_531743_verizon_t">20cbb2912f675010de374f2e2c99b6be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Verizon Time Card">20cbb2912f675010de374f2e2c99b6be</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d83cf6d12f675010de374f2e2c99b63a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 17:44:00</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

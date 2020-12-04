@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" max_length="40" name="x_531743_verizon_t_verizon_time_card" sizeclass="0" type="collection">
+        <element label="Monday" max_length="40" name="u_float_1" type="float"/>
+        <element attributes="encode_utf8=false" label="Employee" max_length="32" name="u_reference_7" reference="sys_user" type="reference"/>
+    </element>
+</database>

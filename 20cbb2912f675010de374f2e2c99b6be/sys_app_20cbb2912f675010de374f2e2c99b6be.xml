@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>edcb72112f675010de374f2e2c99b601</logo>
+        <menu/>
+        <name>Verizon Time Card</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_531743_verizon_t</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>A time card for Verizon employees</short_description>
+        <source>x_531743_verizon_t</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 17:42:06</sys_created_on>
+        <sys_id>20cbb2912f675010de374f2e2c99b6be</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 17:42:11</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>verizon-logo.png</file_name>
+        <hash>feb547b1e769f6392f9e26b7bd32207a0dd602fcc4ebbd0d6a1afcdc90842152</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>5398</size_bytes>
+        <size_compressed>4847</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 17:42:10</sys_created_on>
+        <sys_id>edcb72112f675010de374f2e2c99b601</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-09-28 17:42:11</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>20cbb2912f675010de374f2e2c99b6be</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="verizon-logo.png" sys_id="edcb72112f675010de374f2e2c99b601">edcb72112f675010de374f2e2c99b601</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 17:42:10</sys_created_on>
+        <sys_id>21cb72112f675010de374f2e2c99b602</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6452</length>
+        <position>1</position>
+        <sys_attachment display_value="verizon-logo.png" sys_id="edcb72112f675010de374f2e2c99b601">edcb72112f675010de374f2e2c99b601</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 17:42:10</sys_created_on>
+        <sys_id>a1cb72112f675010de374f2e2c99b602</sys_id>
+    </sys_attachment_doc>
+</record_update>
